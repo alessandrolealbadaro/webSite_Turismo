@@ -1,0 +1,23 @@
+{
+  "name": "site-turismo-atualizado2",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "servor --reload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandrolealbadaro/Site-Turismo-atualizado.git"
+  },
+  "author": "Alessandro Leal Badaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessandrolealbadaro/Site-Turismo-atualizado/issues"
+  },
+  "homepage": "https://github.com/alessandrolealbadaro/Site-Turismo-atualizado#readme",
+  "description": "",
+  "dependencies": {
+    "servor": "^4.0.2",
+    "site-turismo-atualizado2": "file:"
+  }
+}
